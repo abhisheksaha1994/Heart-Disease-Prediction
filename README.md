@@ -37,7 +37,7 @@ This project focuses on building machine learning models to predict the likeliho
 
 ## Results:
 - Comprehensive comparison of the models in terms of performance on both training and testing datasets.
-- XGBoost showed the highest performance due to its gradient boosting mechanism.
+- Random Forest Classifier showed the highest performance.
 ## Live Demo:
 <a href="https://colab.research.google.com/drive/1N9MYlk6kom6gGlVNNNU7ixJ4aa15_Az6?usp=sharing">Click Here</a>
 ## Thank You
